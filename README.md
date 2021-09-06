@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chibeepatag, Ruby on Rails and Javascript developer
+- 👋 Hi, I’m @chibeepatag, Ruby on Rails and Javascript developer. 
 - 👀 I’m interested in ecommerce, retail, classical music, urban farming.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on open source Ruby on Rails and React projects
